@@ -380,21 +380,3 @@ hasil_dk = dec('password12345677', image)
 with open('image_aftera.png', 'wb') as image_file:
     image_file.write(hasil_dk)
 
-# with open('Image-PNG-icon.png', 'rb') as f:
-#     content = f.read()
-# print(binascii.hexlify(content).decode())
-# hasil = enc(key, content)
-# print(hasil)
-© 2022 GitHub, Inc.
-Terms
-Privacy
-Security
-Status
-Docs
-Contact GitHub
-Pricing
-API
-Training
-Blog
-About
-Loading complete
